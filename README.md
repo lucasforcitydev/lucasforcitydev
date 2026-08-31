@@ -1,32 +1,39 @@
 # Lucas Santos
 
-## Analista de Testes Jr. | QA
+### Analista de Testes Jr. | QA
 
-Graduando em Análise e Desenvolvimento de Sistemas, com foco em Qualidade de Software e testes de aplicações.
+🎯 **Foco:** Qualidade de Software • Testes de Software • Automação de Testes
 
-Tenho conhecimentos práticos em testes funcionais, testes exploratórios, testes de regressão, testes de API e automação de testes.
+Graduando em **Análise e Desenvolvimento de Sistemas**, com foco em **Qualidade de Software e testes de aplicações**.
 
-### QA & Testes
+Possuo conhecimentos práticos em **testes funcionais, exploratórios, regressão, testes de API e automação**, além de experiência com validação de aplicações **frontend e backend** através de projetos práticos.
+
+---
+
+## 🧪 QA & Testes
 
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Testing-6DB33F?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/BDD%20%2F%20Gherkin-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gherkin-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-- Testes funcionais
-- Testes exploratórios
-- Testes de regressão
-- Testes de API
-- BDD / Gherkin
-- Casos de teste
-- Documentação de defeitos
-- Validação frontend e backend
+* Testes funcionais
+* Testes exploratórios
+* Testes de regressão
+* Testes de API
+* Testes automatizados
+* BDD / Gherkin
+* Elaboração de casos de teste
+* Documentação e registro de defeitos
+* Validação de aplicações frontend e backend
 
-### Tecnologias
+---
 
-### Tecnologias
+## 💻 Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,23 +48,27 @@ Tenho conhecimentos práticos em testes funcionais, testes exploratórios, teste
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### Projetos em destaque
+---
 
-**QA Authentication Tests**
-Testes e validações de fluxos de autenticação, utilizando cenários de teste, BDD e documentação.
-
-**API Tests Supabase**
-Testes de API utilizando Postman e Supabase, incluindo operações CRUD e validações.
-
-**Barbearia App**
-Aplicação full stack envolvendo frontend, backend, autenticação, agendamentos e integração com API.
-
-### Formação
+## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas — Estácio FIC**
-2024 – 2026 | Em andamento
 
-### Objetivo
+📅 2024 – 2026
+📚 Em andamento
 
-Atuar como Analista de Testes Jr. e desenvolver minha carreira em Qualidade de Software, testes e automação.
+---
 
+## 🎯 Objetivo Profissional
+
+Atuar como **Analista de Testes Jr. / QA**, desenvolvendo minha carreira em **Qualidade de Software**, com foco em testes funcionais, testes de API, automação e melhoria contínua da qualidade das aplicações.
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/lucasforcitydev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
