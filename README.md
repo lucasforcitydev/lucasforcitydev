@@ -1,6 +1,6 @@
 # Lucas Santos
 
-### Analista de Testes Jr. | QA
+### Analista de Testes QA Jr.
 
 🎯 **Foco:** Qualidade de Software • Testes de Software • Automação de Testes
 
@@ -52,7 +52,7 @@ Possuo conhecimentos práticos em **testes funcionais, exploratórios, regressã
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas — Estácio FIC**
+**Análise e Desenvolvimento de Sistemas - Estácio FIC**
 
 📅 2024 – 2026
 📚 Em andamento
@@ -61,14 +61,7 @@ Possuo conhecimentos práticos em **testes funcionais, exploratórios, regressã
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Analista de Testes Jr. / QA**, desenvolvendo minha carreira em **Qualidade de Software**, com foco em testes funcionais, testes de API, automação e melhoria contínua da qualidade das aplicações.
+Atuar como **Analista de Testes QA Jr.**, desenvolvendo minha carreira em **Qualidade de Software**, com foco em testes funcionais, testes de API, automação e melhoria contínua da qualidade das aplicações.
 
 ---
 
-## 📫 Contato
-
-<p>
-  <a href="https://github.com/lucasforcitydev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
